@@ -1,9 +1,12 @@
-omxtx
+omxtxres
 =====
 
 This is a simple proof-of-concept OpenMAX transcoder for the Raspberry Pi.
 
-See the warnings in the comments at the top of omxtx.c
+Forked from the original omxtx.c
+added resizer functionality and pixel aspectratio
+
+See the warnings in the comments at the top of omxtxres.c
 
 
 Copyright
@@ -11,6 +14,7 @@ Copyright
 
 omxtx - OpenMAX transcoder for the Raspberry Pi
 Copyright (C) 2012 Dickon Hood <dickon@fluff.org>
+	forked and added functionality by Arjen V
 
 This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
